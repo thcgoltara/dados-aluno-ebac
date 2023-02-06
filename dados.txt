@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Thyessa Cordeiro Goltara
+-Profissão: Analista de Teste
+-Cidade: Serra
+-O que faz nas horas vaga: Pratico Handebol
+-Feedback sobre o curso Qualidade de Software: Tem sido de extrema importância para o meu primeiro emprego na área de TI
+-Feedback sobre a plataforma de estudo da EBAC: Bem intuitiva e simples de usar.
 
 Obrigado!!!
 
